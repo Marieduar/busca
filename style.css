@@ -1,17 +1,16 @@
 #busca form{
     margin-left: 150px;
-    margin-top: 160px;
+    margin-top: 150px;
     border-radius: 100px;
 }
 
 form.exemple button{
     height: 20px ;
     width: 20px;
-    padding-top: 10px ;
+    margin-top: 60px ;
     border-radius: 10px;
     background-color: rgb(205, 43, 226);
 }
-
 body{
-    background-color: gray;
+    background-color: lightgray;
 }
